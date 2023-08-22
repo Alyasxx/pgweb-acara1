@@ -1,15 +1,17 @@
 # pgweb-acara1
-Perencanaan produk web GIS dan Git
+
+**Perencanaan produk web GIS dan Git**
 
 ---
 
-> p
-> p
+> BIODATA
 
-**AAAAAA**
+Nama : Alya Syahidha
 
-[KEPOIN SIST](https://instagram.com/alya.sx?igshid=MzRlODBiNWFlZA==)
+Kelas : PGWEB - B
 
-![foto](img/apakek.jpg)
----
-<img src="img/apakek.jpg" width="200">
+NIM : 22/505809/SV/21946
+
+Avatar :
+
+![Avatar](img/Hermione.jpg)
